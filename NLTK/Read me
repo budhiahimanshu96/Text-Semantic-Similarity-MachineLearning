@@ -1,2 +1,26 @@
 This folder contains all the concepts and mathods of NLTK like Chinking, Chunking, Lemmatizing, 
 Stopwords, named entity, part of speech, stemming, Word net, tokenizing and text_classification.
+
+Chinking - It is the process of removing a sequence of tokens from a chunk. 
+
+Chunking - The basic technique for entity detection is chunking. 
+
+Lemmatizing - Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words,
+normally aiming to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma.
+
+Named_Entity - Named entities are definite noun phrases that refer to specific types of individuals, such as organizations, persons, 
+dates, and so on.
+
+Part_of_speech - A Part-Of-Speech (POS) is a piece of software that reads text in some language and assigns parts of speech 
+to each word (and other token), such as noun, verb, adjective, etc.,
+
+Stemming - The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form.
+
+Stop words - Sometimes, some extremely common words which would appear to be of little value in helping select documents matching a user 
+need are excluded from the vocabulary entirely.
+
+Wordnet - WordNet is a lexical database for the English language, and is part of the NLTK corpus. 
+
+Word_Tokenizing - It separates every word in a sentence. 
+Words are separated by the spaces after the word, i.e.,after every word there is a space.
+It counts punctuation as a separate token/word (,.!?etc)
