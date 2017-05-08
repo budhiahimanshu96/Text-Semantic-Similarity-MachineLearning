@@ -1,19 +1,19 @@
-Chinking -
+Chinking - It is the process of removing a sequence of tokens from a chunk. If the matching sequence of tokens spans an entire chunk, then the whole chunk is removed; if the sequence of tokens appears in the middle of the chunk, these tokens are removed, leaving two chunks where there was only one before. If the sequence is at the periphery of the chunk, these tokens are removed, and a smaller chunk remains.
 
-Chunking - 
+Chunking - The basic technique for entity detection is chunking. Like tokenization, which omits whitespace, chunking usually selects a subset of the tokens. Also like tokenization, the pieces produced by a chunker do not overlap in the source text.
 
-Lemmatizing - 
+Lemmatizing - Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words, normally aiming to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma . Lemmas create actual words.The only major thing to note is that lemmatize takes a part of speech parameter, "pos." If not supplied, the default is "noun." This means that an attempt will be made to find the closest noun of that word.
 
-Named_Entity - 
+Named_Entity - Named entities are definite noun phrases that refer to specific types of individuals, such as organizations, persons, dates, and so on. The goal of a named entity recognition (NER) system is to identify all textual mentions of the named entities.
 
-Part_of_speech - 
+Part_of_speech - A Part-Of-Speech (POS) is a piece of software that reads text in some language and assigns parts of speech to each word (and other token), such as noun, verb, adjective, etc.,
 
-Stemming - 
+Stemming - The goal of stemming is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form.Stemming usually refers to a crude heuristic process that chops off the ends of words in the hope of achieving this goal correctly most of the time, and often includes the removal of derivational affixes.
 
-Stop words - 
+Stop words - Sometimes, some extremely common words which would appear to be of little value in helping select documents matching a user need are excluded from the vocabulary entirely. These words are called stop words.Stop words can be filtered from the text to be processed. There is no universal list of stop words in nlp, however the nltk module contains a list of stop words.
 
-Wordnet - 
+Wordnet - WordNet is a lexical database for the English language, and is part of the NLTK corpus. We can use WordNet alongside the NLTK module to find the meaning of words, synonyms, antonyms and more.  Synonyms are word that have similar meaning, therefore a synonym set or synset, is a group of synonyms. 
 
-Word_Tokenizing - 
+Word_Tokenizing - It separates every word in a sentence. Words are separated by the spaces after the word, i.e.,after every word there is a space. It counts punctuation as a separate token/word (,.!?etc)
 
-Text_Classification - 
+Text_Classification - A fairly popular text classification task is to identify a body of text as either spam or not spam, for things like email filters. Firstly, the words are stored, then we shuffle the documents as there are chances of training all the spam, not spam together. Then a list of typical words is made and frequency distribution is performed to find out the common words which also includes the puctuation marks also.
