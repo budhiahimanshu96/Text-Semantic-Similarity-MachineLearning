@@ -85,9 +85,11 @@ WordNet is a lexical database for the English language, and is part of the NLTK 
 - Similarity Example 1: <br /> ![Alt text](/Images/Similar.PNG?raw=true "Similar Example 1")
 - Similarity Example 2: <br />![Alt text](/Images/Similar2.PNG?raw=true "Similar Example 2")
 - Somewhat Similarity Example: <br />![Alt text](/Images/SomewhatSimilar.PNG?raw=true "Somewhat Similar Example")
-- Dissimilarity Example: <br />![Alt text](/Images/NotSimilar.PNG?raw=true "Not-Similar Example")
+- Dissimilarity Example: 
 <br />
-[TextSemanticSimilarity.py](https://github.com/budhiahimanshu96/Text-Semantic-Similarity-MachineLearning/blob/master/EndSem/TextSemanticSimilarity_Final.py)
+![Alt text](/Images/NotSimilar.PNG?raw=true "Not-Similar Example")
+<br />
+[Final.py](https://github.com/budhiahimanshu96/Text-Semantic-Similarity-MachineLearning/blob/master/NLTK/Final.py)
 
 
 # Discussion and Future Work:
