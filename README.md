@@ -9,13 +9,13 @@ In this project, we build algorithms (one or more) and analyse the algorithms su
 
 # Team
 1)Aneri Sheth- 1401072 <br />
-# ![Alt text](/Images/Aneri.JPG?raw=true "Aneri Sheth" | width=48)
+# <img src="/Images/Aneri.JPG" width="250" height="250" />
 2)Himanshu Budhia- 1401039 <br />
-# ![Alt text](/Images/Himanshu.jpg?raw=true "Himanshu Budhia" | width=48)
+# <img src="/Images/Himanshu.jpg" width="250" height="250" />
 3)Raj Shah- 1401050 <br />
-# ![Alt text](/Images/VennNLP.PNG?raw=true "NLP" | width=48)
+# <img src="/Images/Raj.jpg" width="250" height="250" />
 4)Twinkle Vaghela- 1401106
-# ![Alt text](/Images/VennNLP.PNG?raw=true "NLP" | width=48)
+# <img src="/Images/Twinkle.jpg" width="250" height="250" />
 
 # NATURAL LANGUAGE PROCESSING
 Natural Language processing is a wide domain coveringconcepts of Computer Science, Artificial Intelligence and Machine Learning. 
