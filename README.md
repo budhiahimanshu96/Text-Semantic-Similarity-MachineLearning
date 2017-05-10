@@ -82,7 +82,7 @@ WordNet is a lexical database for the English language, and is part of the NLTK 
 - After eliminating the special characters and punctuations and then removing all the stop words and lemmatizing, we get S1={I, given, card, garden} and S2={In, garden, gave, card}.
 - After lemmatizing, we find the synonyms of the lemmatized words which are called synsets. Then, we compare first word of S1 with all the words of S2 and continue this iteratively and find the similarity index of each word with words in the S2.
 - We find the mean of the computed similarity indexes and thus we we anaylze the semantic similarity using machine learning.
-- If the similarity index is less than 0.65, the sentences are labeled as ’Not Similar’, if it is between 0.65 and 0.8, the sentences are labeled as ’Somewhat Similar’ and more than 0.8, the sentences are ’Similar’.
+- If the similarity index is less than 0.60, the sentences are labeled as ’Not Similar’, if it is between 0.60 and 0.8, the sentences are labeled as ’Somewhat Similar’ and more than 0.8, the sentences are ’Similar’.
 
 # Output
 
@@ -96,7 +96,7 @@ WordNet is a lexical database for the English language, and is part of the NLTK 
 
 # Discussion and Future Work
 
-- Semantics Similarity has been done for sentences and phrases. However, for paragraphs and short texts will need complex algorithms for separating of sentences and finding their semantics similarity.
+- Semantics Similarity has been done for sentences and phrases. However, paragraphs and short texts will need complex algorithms for separating of sentences and finding their semantics similarity.
 - We find similarity word by word and thus we may get false positives and negatives.
 - We would try to decrease the false positive and negative rates by using sentence- sentence similarity instead of word-word similarity.
 - Our implementation does not consider spellings. To implement that, Longest Common Subsequence (LCS) Algorithm can be used.
