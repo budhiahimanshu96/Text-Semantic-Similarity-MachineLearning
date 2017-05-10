@@ -1,17 +1,21 @@
 # Text-Semantic-Similarity-MachineLearning
 Machine Learning Project of Semester VI students(Group 3) at School of Engineering and Applied Science, Ahmedabad University.
 
-# Project Abstract
+# About
 Machine Learning has found its place in the technological world rapidly since the past few years. One of the applications of Machine Learning includes Plagiarism Checking which is an application of Text Semantic Similarity. Text Semantic Similarity is a measure of the degree of semantic equivalence between two pieces of text.
 
 How do we know whether a document that we are reading is authorized? Are students copying the content/ideas from other sources or are they produced by them?  
 In this project, we build algorithms (one or more) and analyse the algorithms suitable for plagiarism checking software by applying the already understood concepts of Machine Learning. 
 
-# Group Members
+# Team
 1)Aneri Sheth- 1401072 <br />
+# ![Alt text](/Images/Aneri.JPG?raw=true "Aneri Sheth" | width=48)
 2)Himanshu Budhia- 1401039 <br />
+# ![Alt text](/Images/Himanshu.jpg?raw=true "Himanshu Budhia" | width=48)
 3)Raj Shah- 1401050 <br />
+# ![Alt text](/Images/VennNLP.PNG?raw=true "NLP" | width=48)
 4)Twinkle Vaghela- 1401106
+# ![Alt text](/Images/VennNLP.PNG?raw=true "NLP" | width=48)
 
 # NATURAL LANGUAGE PROCESSING
 Natural Language processing is a wide domain coveringconcepts of Computer Science, Artificial Intelligence and Machine Learning. 
